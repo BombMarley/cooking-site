@@ -4,7 +4,7 @@ import { useFetch } from '../../hooks/useFetch'
 import './Home.css'
 
 //components
-import RecipesList from '../../components/RecipesList'
+import RecipesList from '../../components/RecipeList'
 
 
 export default function Home() {
