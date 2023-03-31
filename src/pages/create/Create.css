@@ -32,3 +32,12 @@
 .ingredients button {
   margin: 0 0 0 10px;
 }
+
+/* dark mode */
+.create.dark h2 {
+  color: #e4e4e4;
+}
+.create.dark label,
+.create.dark p {
+  color: #d4d4d4
+}
